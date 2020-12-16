@@ -11,3 +11,11 @@
 .img-fluid{
     margin-bottom: 20px;
 }
+
+.fa-smile-beam, .fa-sun{
+    color: yellow;
+}
+
+.fa-users, .fa-glass-cheers{
+    color: royalblue;
+}
