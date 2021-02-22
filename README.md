@@ -6,6 +6,6 @@
 # Description
 A portfolio displaying past projects and the skills it took to work on them.
 # Usage
-You can view the deployed portfolio at or take a look at the screenshots above as well as the resume.pdf
+You can view the deployed portfolio [here](https://jamgid.github.io/Portfolio/public/html/about.html) or take a look at the screenshots above as well as the resume.pdf
 # Contributors
 James Gideon
