@@ -5,6 +5,13 @@
 
 # Description
 A portfolio displaying past projects and the skills it took to work on them.
+
+## ![img](https://github.com/Jamgid/Portfolio/blob/main/public/assets/images/Screenshot-of-about.png?raw=true)
+
+## ![img](https://github.com/Jamgid/Portfolio/blob/main/public/assets/images/Screenshot-of-contact.png?raw=true)
+
+## ![img](https://github.com/Jamgid/Portfolio/blob/main/public/assets/images/Screenshot-of-portfolio.png?raw=true)
+
 # Usage
 You can view the deployed portfolio [here](https://jamgid.github.io/Portfolio/public/html/about.html) or take a look at the screenshots above as well as the resume.pdf
 # Contributors
